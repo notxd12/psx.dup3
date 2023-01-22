@@ -1,0 +1,2 @@
+Key="markusez12"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cosmicpsx/script/main/v2"))()
